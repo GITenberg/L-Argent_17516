@@ -30,6 +30,8 @@ description: "L'Argent (\"Money\") is the eighteenth novel in the Rougon-Macquar
   \ the main character of Le docteur Pascal. He also has two sisters: Sidonie, who\
   \ appears in La curée, and Marthe, one of the protagonists of La conquête de Plassans.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17516#L-Argent
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-15'
 gutenberg_type: Text
