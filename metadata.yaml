@@ -1,0 +1,55 @@
+_repo: L-Argent_17516
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: "L'Argent (\"Money\") is the eighteenth novel in the Rougon-Macquart\
+  \ series by Émile Zola. It was serialized in the periodical Gil Blas beginning in\
+  \ November 1890 before being published in novel form by Charpentier et Fasquelle\
+  \ in March 1891.\nThe novel focuses on the financial world of the Second French\
+  \ Empire as embodied in the Paris Bourse and exemplified by the fictional character\
+  \ of Aristide Saccard. Zola's intent was to show the terrible effects of speculation\
+  \ and fraudulent company promotion, the culpable negligence of company directors,\
+  \ and the impotency of contemporary financial laws.\nAristide Saccard (b. 1815 as\
+  \ Aristide Rougon) is the youngest son of Pierre and Félicité Rougon. He is first\
+  \ introduced in La fortune des Rougon. L'argent is a direct sequel to La curée (published\
+  \ in 1871), which details Saccard's first rise to wealth using underhanded methods.\
+  \ Sensing his unscrupulous nature, his brother Eugène Rougon prompts Aristide to\
+  \ change his surname from Rougon to Saccard.\nAristide's other brother Pascal is\
+  \ the main character of Le docteur Pascal. He also has two sisters: Sidonie, who\
+  \ appears in La curée, and Marthe, one of the protagonists of La conquête de Plassans.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17516'
+  wikidata: Q607232
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Banks and banking -- France -- History -- 19th -- Fiction'
+- !lcc 'PQ'
+title: L'Argent
+url: http://www.gutenberg.org/ebooks/17516
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Argent
+- https://fa.wikipedia.org/wiki/%D9%BE%D9%88%D9%84_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://de.wikipedia.org/wiki/Das_Geld_(Zola)
+- https://pl.wikipedia.org/wiki/Pieni%C4%85dz_(powie%C5%9B%C4%87)
+- https://en.wikipedia.org/wiki/L%27Argent
+- https://it.wikipedia.org/wiki/Il_denaro_(Zola)
+- https://fr.wikisource.org/wiki/L%E2%80%99Argent
